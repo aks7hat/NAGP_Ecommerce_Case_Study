@@ -19,7 +19,7 @@ const HeroSection = () => {
                 {/* <h2 className=''></h2> */}
             </div>
             <p className='text-white sm:max-w-xl text-6xl' style={{color: 'crimson', marginTop:'-40px'}}>
-            Big Flash Sale Live!!!
+            db59383c-ce63-4a90-a2f2-ed16b1c46cd7
             </p>
             {/* <p className=''>
             </p> */}
